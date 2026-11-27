@@ -43,19 +43,19 @@ Claude 的汉化分两条路线，先说清楚差别，再决定装哪个：
 
 **汉化会影响官方更新和签名校验吗？** 不替换、不重新打包官方文件就不会。改的是客户端本来就内置的语言资源开关。
 
-## 文章目录（11 篇）
+## Claude汉化教程与指南（11 篇）
 
-- 2026-11-27 · [老手启动器3.0.48更新：完善Claude配置窗口汉化，修正状态](https://www.laoshoucun.com/jiaocheng/3779) · [仓库内阅读](docs/3779-老手启动器3.0.48更新：完善Claude配置窗口汉化，修正状态.md)
-- 2026-11-27 · [老手启动器3.0.44更新：Claude汉化模型菜单更准确，会话自检](https://www.laoshoucun.com/jiaocheng/3778) · [仓库内阅读](docs/3778-老手启动器3.0.44更新：Claude汉化模型菜单更准确，会话自检.md)
-- 2026-11-27 · [老手启动器3.0.38更新：数据独立，Claude汉化线路切换更完整](https://www.laoshoucun.com/jiaocheng/3777) · [仓库内阅读](docs/3777-老手启动器3.0.38更新：数据独立，Claude汉化线路切换更完整.md)
-- 2026-11-27 · [老手启动器3.0.33更新：Claude汉化线路模型同步与一键导入](https://www.laoshoucun.com/jiaocheng/3776) · [仓库内阅读](docs/3776-老手启动器3.0.33更新：Claude汉化线路模型同步与一键导入.md)
-- 2026-11-27 · [老手启动器3.0.29更新：Claude汉化不再要求预先配置线路](https://www.laoshoucun.com/jiaocheng/3775) · [仓库内阅读](docs/3775-老手启动器3.0.29更新：Claude汉化不再要求预先配置线路.md)
-- 2026-11-27 · [老手启动器3.0.21更新：加强Claude汉化状态判断，补齐诊断](https://www.laoshoucun.com/jiaocheng/3774) · [仓库内阅读](docs/3774-老手启动器3.0.21更新：加强Claude汉化状态判断，补齐诊断.md)
-- 2026-11-27 · [老手启动器3.0.13更新：Claude汉化进度可见，线路导入更顺手](https://www.laoshoucun.com/jiaocheng/3773) · [仓库内阅读](docs/3773-老手启动器3.0.13更新：Claude汉化进度可见，线路导入更顺手.md)
-- 2026-11-27 · [老手启动器3.0.8更新：完善商店版Claude汉化，加入Code中文辅助](https://www.laoshoucun.com/jiaocheng/3772) · [仓库内阅读](docs/3772-老手启动器3.0.8更新：完善商店版Claude汉化，加入Code中文辅助.md)
-- 2026-11-27 · [老手启动器3.0.4更新：Claude汉化界面焕新，操作提示更清楚](https://www.laoshoucun.com/jiaocheng/3771) · [仓库内阅读](docs/3771-老手启动器3.0.4更新：Claude汉化界面焕新，操作提示更清楚.md)
-- 2026-11-25 · [Claude汉化工具下载和克劳德保姆级汉化教程](https://www.laoshoucun.com/jiaocheng/3770) · [仓库内阅读](docs/3770-Claude汉化工具下载和克劳德保姆级汉化教程.md)
-- 2026-10-08 · [Claude 悄悄上线中文界面，大陆用户还是进不去](https://www.laoshoucun.com/claudedt/3525) · [仓库内阅读](docs/3525-Claude悄悄上线中文界面，大陆用户还是进不去.md)
+- 2026-11-27 · [老手启动器3.0.48更新：完善Claude配置窗口汉化，修正状态](https://www.laoshoucun.com/jiaocheng/3779) · [📄 仓库内阅读](docs/3779-老手启动器3.0.48更新：完善Claude配置窗口汉化，修正状态.md)
+- 2026-11-27 · [老手启动器3.0.44更新：Claude汉化模型菜单更准确，会话自检](https://www.laoshoucun.com/jiaocheng/3778) · [📄 仓库内阅读](docs/3778-老手启动器3.0.44更新：Claude汉化模型菜单更准确，会话自检.md)
+- 2026-11-27 · [老手启动器3.0.38更新：数据独立，Claude汉化线路切换更完整](https://www.laoshoucun.com/jiaocheng/3777) · [📄 仓库内阅读](docs/3777-老手启动器3.0.38更新：数据独立，Claude汉化线路切换更完整.md)
+- 2026-11-27 · [老手启动器3.0.33更新：Claude汉化线路模型同步与一键导入](https://www.laoshoucun.com/jiaocheng/3776) · [📄 仓库内阅读](docs/3776-老手启动器3.0.33更新：Claude汉化线路模型同步与一键导入.md)
+- 2026-11-27 · [老手启动器3.0.29更新：Claude汉化不再要求预先配置线路](https://www.laoshoucun.com/jiaocheng/3775) · [📄 仓库内阅读](docs/3775-老手启动器3.0.29更新：Claude汉化不再要求预先配置线路.md)
+- 2026-11-27 · [老手启动器3.0.21更新：加强Claude汉化状态判断，补齐诊断](https://www.laoshoucun.com/jiaocheng/3774) · [📄 仓库内阅读](docs/3774-老手启动器3.0.21更新：加强Claude汉化状态判断，补齐诊断.md)
+- 2026-11-27 · [老手启动器3.0.13更新：Claude汉化进度可见，线路导入更顺手](https://www.laoshoucun.com/jiaocheng/3773) · [📄 仓库内阅读](docs/3773-老手启动器3.0.13更新：Claude汉化进度可见，线路导入更顺手.md)
+- 2026-11-27 · [老手启动器3.0.8更新：完善商店版Claude汉化，加入Code中文辅助](https://www.laoshoucun.com/jiaocheng/3772) · [📄 仓库内阅读](docs/3772-老手启动器3.0.8更新：完善商店版Claude汉化，加入Code中文辅助.md)
+- 2026-11-27 · [老手启动器3.0.4更新：Claude汉化界面焕新，操作提示更清楚](https://www.laoshoucun.com/jiaocheng/3771) · [📄 仓库内阅读](docs/3771-老手启动器3.0.4更新：Claude汉化界面焕新，操作提示更清楚.md)
+- 2026-11-25 · [Claude汉化工具下载和克劳德保姆级汉化教程](https://www.laoshoucun.com/jiaocheng/3770) · [📄 仓库内阅读](docs/3770-Claude汉化工具下载和克劳德保姆级汉化教程.md)
+- 2026-10-08 · [Claude 悄悄上线中文界面，大陆用户还是进不去](https://www.laoshoucun.com/claudedt/3525) · [📄 仓库内阅读](docs/3525-Claude悄悄上线中文界面，大陆用户还是进不去.md)
 
 ---
 
